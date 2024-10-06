@@ -1,7 +1,1 @@
-echo "# GitMehDK" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/GitMehDK/GitMehDK.git
-git push -u origin main
+# Working as a Data analyst at a pension fund, studying Master of IT at Aalborg University.
